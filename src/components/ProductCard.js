@@ -58,7 +58,7 @@ const ProductCard = (props) => {
               activeColor="#ffd700"
             />
             <p className={`description ${grid === 12 ? "d-block" : "d-none"}`}>
-              At vero eos et accusamus et isuto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt...
+              At vero eos et accusamus et isuto eos et accusamus et isuto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt...
             </p>
             <p className="price">
               $100.00
